@@ -7,7 +7,7 @@ from googleapiclient.discovery import build
 import pyautogui  # ? Importa biblioteca que simula comandos do teclado
 import time  # ? Importa biblioteca com funçoes de tempo
 
-YOUTUBE_API_KEY = "AIzaSyCPtKQkPYuKihl1RRmNsEe9HFfy-b7ZxMw"
+YOUTUBE_API_KEY = "your-youtube-api-key-here"
 # ? Cria um objeto chamado youtube que será usado para fazer todas as chamadas à API, meio que o telefone para ligar para o servidor
 youtube = build("youtube", "v3", developerKey=YOUTUBE_API_KEY)
 
