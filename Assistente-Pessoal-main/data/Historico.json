@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "está acordado"
+  },
+  {
+    "role": "assistant",
+    "content": "sempre operacional senhor minha funcionalidade é ininterrupta"
+  },
+  {
+    "role": "user",
+    "content": "está acordado"
+  },
+  {
+    "role": "assistant",
+    "content": "estou sempre online e operacional senhor"
+  },
+  {
+    "role": "user",
+    "content": "que dia é hoje"
+  },
+  {
+    "role": "assistant",
+    "content": "acessando bancos de dados externos correlacionando padrões relevantes informação compilada e pronta para consulta senhor hoje é 20 de maio de 2024"
+  }
+]
